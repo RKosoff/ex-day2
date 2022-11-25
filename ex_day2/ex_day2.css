@@ -1,0 +1,106 @@
+.container {
+    margin: 0 auto;
+    width: 60%;
+}
+#logo {
+    display: block;
+    margin:  0 auto;
+    padding: 20px;
+}
+#start {
+    background-color:rgba(245, 229, 205, 0.4) ;
+    text-align: center;
+    color: darkgreen;
+    font-size: larger;
+    border-top: 1px solid orange;
+    display: block ;
+    padding:20px 0 ;
+    position: absolute;
+    left: 0;
+    right: 0;
+}
+span {
+    font-size: x-large;
+    font-weight: bold;
+}
+
+h1 {
+    text-align: center;
+    font-size: 70px;
+    font-weight: 800;
+}
+#title {
+    display: block;
+    margin-top: 12em;
+}
+#introduction {
+    font-size: 2em;
+}
+#focaccia-image {
+    border-radius: 20px ;
+    display: block;
+    margin: auto;
+    width: 100%;
+}
+#div-anchor {
+    border-left: 1px solid orange;
+    padding-left: 1em;
+}
+#sally {
+    display: block;
+    margin:1em auto;
+    color: rgb(143, 142, 142);
+    opacity: 0.7;
+    font-size: 2em;
+    text-align: center;
+}
+#first-anchor {
+    color: rgb(205, 92, 92);
+    font-size: larger;
+    font-weight: bold;
+    margin: 0px;
+}
+#recipe-link {
+    font-weight: bold;
+    font-size: x-large;
+    color: rgb(32, 170, 136) ;
+    margin: 2px;
+}
+h2 {
+    font-size: 3em;
+    font-weight: bold;
+}
+.ingredients {
+    font-weight: bold;
+    font-size: 2em;
+}li {
+    font-size: xx-large;
+}
+.method {
+    display: block;
+    text-align: left ;
+    font-size: xx-large;
+    padding: auto;
+}
+#oven { 
+    text-align: left;
+}
+#end { 
+    text-align: left;
+}
+.images {
+    display: block;
+    margin: auto;
+    width: 65em;
+}
+footer {
+    font-size: 3em;
+    
+}
+a {
+    color: rgb(32, 170, 136);
+}
+#h2-border {
+    border-bottom: 1px solid aquamarine;
+    padding-bottom: 1em ;
+}
